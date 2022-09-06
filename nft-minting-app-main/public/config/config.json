@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x6BdfC5292FfdB26C2c1432FD148293035f21E139",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0x6bdfc5292ffdb26c2c1432fd148293035f21e139",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "Catz",
+  "SYMBOL": "Catz",
+  "MAX_SUPPLY": 5000,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 0,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opensea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/catz-dvp1v55k77",
+  "SHOW_BACKGROUND": true
+}
